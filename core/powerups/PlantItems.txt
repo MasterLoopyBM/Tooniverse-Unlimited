@@ -1,0 +1,4 @@
+Note: Plant Items can only be used by Plants!
+
+Stallia Spore- Inflicts Poison and Stun on the enemy for 1 turn.
+Fire Pea- Has a 40% chance to Burn enemy.

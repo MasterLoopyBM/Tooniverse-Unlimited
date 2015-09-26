@@ -1,0 +1,14 @@
+This file indicates the types of Zombies that can appear from Big Wave Beach.
+
+Pompadour Zombie-
+HP ranges from 6-32.
+Bite does 2 damage.
+
+Conehead Pompadour Zombie-
+HP ranges from 12-40.
+Bite does 2 damage.
+
+Mermaid Imp-
+HP ranges from 6-20.
+Bite does 1 damage.
+Seduce has a 10% chance to inflicting Stun on a target.

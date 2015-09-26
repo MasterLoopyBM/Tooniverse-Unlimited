@@ -1,4 +1,5 @@
 Red- Inflict Burn on a target for 1 turn.
 Green- Heal an ally for 10 health.
 Blue- Freeze all enemies for 1 turn.
+Cyan- Purifies target of all status effects.
 Magenta- Deal 7 damage to an enemy, and heal an ally for 3 health.

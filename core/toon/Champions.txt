@@ -5,3 +5,7 @@ Master Loopy can ignore all status effects and damage inflicted upon him is redu
 The Great Gawrshkin
 Plant
 The Great Gawrshkin can ignore Burn and Wither effects and can regen allies' magic by 15 every other turn.
+
+Pea Pod
+Plant
+Pea Pod spawns a new head every 2 turns. Pea Pod also can reduce Burn damage to itself by 10%.
