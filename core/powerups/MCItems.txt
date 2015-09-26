@@ -1,0 +1,4 @@
+Wither Skull- Inflict Wither on a target for 1 turn.
+Spider Eye- Inflict Poison on a target for 2 turns.
+Guardian Eye- Inflict Weakness on a target for 2 turns.
+Golden Apple- Heal all allies for 10 health and reduce incoming damage by 25%.

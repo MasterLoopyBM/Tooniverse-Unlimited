@@ -1,0 +1,13 @@
+Flunky
+HP ranges from 6-24.
+Clip-on-Tie does 3 damage.
+
+Cold Caller
+HP ranges from 6-24.
+Double Talk does 3 damage.
+Freeze Assets does 1 damage and has a 5% chance to Freeze target.
+
+Pencil Pusher
+HP ranges from 12-36.
+Finger Wag deals 1 damage.
+Fill with Lead charges 2 turns, but deals 5 damage.
