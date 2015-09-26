@@ -1,0 +1,7 @@
+Master Loopy Bananamuffin
+Dog
+Master Loopy can ignore all status effects and damage inflicted upon him is reduced by 30%.
+
+The Great Gawrshkin
+Plant
+The Great Gawrshkin can ignore Burn and Wither effects and can regen allies' magic by 15 every other turn.

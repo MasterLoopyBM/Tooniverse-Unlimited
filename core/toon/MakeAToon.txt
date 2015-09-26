@@ -1,0 +1,10 @@
+Species list:
+Dog- All Dogs start with 4 extra health.
+Cat- All Cats start with 10 extra magic.
+Mouse- All Mice start with 3 extra health and can reduce enemy attacks by 20%.
+Rabbit- All Rabbits start with 12 extra magic and can reduce enemy magic attacks by 15%.
+Duck- Ducks can ignore Physical limitation in Underwater terrain.
+Horse- All Horses start with 5 extra health and can increase allies' attack by 10%.
+Monkey- All Monkeys start with 10 extra magic and can increase allies' attack by 10%.
+Pig- Pigs can ignore Physical limitation in Swamp terrain.
+Bear- Bears start with 5 extra health and can ignore Poison and Stun effects.
