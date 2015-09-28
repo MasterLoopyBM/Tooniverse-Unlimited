@@ -1,4 +1,7 @@
 BATTLES:
+
+Quick Tip: Make sure you use six-sided dice!
+
 1. In Battle Mode, you will be fighting enemies that are fit for the terrain that you are currently in. For example, Underwater terrain will feature aliens, Waterproofed Cogs, and certain water zombies.
 
 2. To begin your attack, you must decide whether to use a Physical attack or a Magic attack. In the above terrain, a Physical attack would have damage reduced by 25%.
