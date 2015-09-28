@@ -1,0 +1,7 @@
+When making a character, you may choose from one of these elements to be your Toon's type.
+
+Fire- 30% chance to Burn enemy.
+Water- Heal all allies by 3 health every 3 turns.
+Earth- 10% chance to Stun enemy if Earth attack is used.
+Wind- Damage is reduced by 20%.
+Electric- 40% chance to Stun robotic enemies, and 15% chance for all other enemies.

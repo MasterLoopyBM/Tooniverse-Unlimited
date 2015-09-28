@@ -1,0 +1,5 @@
+Sylvester-
+HP ranges from 12-36.
+Bite does 3 damage.
+Claw does 3 damage and has a 10% chance to Bleed.
+Frenzy does 4 damage to all targets, and if a target is Bleeding, it takes 2 extra damage.

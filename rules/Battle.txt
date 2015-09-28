@@ -1,0 +1,14 @@
+BATTLES:
+1. In Battle Mode, you will be fighting enemies that are fit for the terrain that you are currently in. For example, Underwater terrain will feature aliens, Waterproofed Cogs, and certain water zombies.
+
+2. To begin your attack, you must decide whether to use a Physical attack or a Magic attack. In the above terrain, a Physical attack would have damage reduced by 25%.
+
+3. In the event of a Physical attack, you will be multiplying a Dice roll by 10 to determine your attack strength. However, since it is underwater, your attack strength will be reduced to 75%. (A strength of 10 would become 8, a strength of 20 would become 15, and so on.)
+
+4. In the event of a Magic attack, you'll be using some MP to generate magic that will hit much harder than a Physical attack. You will multiply TWO Dice rolls by 10 to determine your attack strength. In the underwater battle, Fire attacks do 200% damage, while Earth and Electric attacks do 150% damage. Water damage is only 75% damage, and Wind is a mere 50% damage.
+
+5. Once your attack is finished, the enemy will attack. This is accomplished by the Game Master rolling the Dice to determine the type of attack, then rolling the Dice again and multiplying that by 10 to get the attack. Remember: If the first Dice is odd, then it is Magic. If even, then it's Physical.
+
+6. Once the enemy is defeated, experience and loot are awarded to the players. Experience is even awarded to characters who are defeated in battle, but the remaining characters in the Party must win the battle.
+
+7.  If all characters in your Party are defeated, you must wait until another player revives you by paying 100 Jellybeans at an Inn.

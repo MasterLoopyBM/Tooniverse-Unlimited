@@ -1,0 +1,6 @@
+This words takes place at a beach. Be careful diving into the water, there's evil afoot!
+
+This world features 2 terrains: Underwater and Sand.
+
+Underwater Terrain: Physical Damage is reduced by 25%.
+Sand Terrain: Earth attacks are disabled.

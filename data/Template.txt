@@ -1,0 +1,5 @@
+Use this template to generate characters for your own copy of the game! Make sure to fork!
+
+Name:
+Species:
+Element:

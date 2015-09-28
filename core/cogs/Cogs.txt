@@ -11,3 +11,8 @@ Pencil Pusher
 HP ranges from 12-36.
 Finger Wag deals 1 damage.
 Fill with Lead charges 2 turns, but deals 5 damage.
+
+Short Change
+HP ranges from 6-24.
+Watercooler does 2 damage.
+Bounce Check does 3 damage and has a 5% chance to Stun.

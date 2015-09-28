@@ -1,0 +1,3 @@
+This is where all Toons start in when the game begins.
+
+This features Urban Terrain, which has no limitations or bonuses.
