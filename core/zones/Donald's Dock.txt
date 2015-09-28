@@ -1,0 +1,7 @@
+Are ye ready to sail on the high seas with Donald?
+
+This features Underwater Terrain, Sand Terrain, and Boardwalk Terrain.
+(Boardwalk Terrain has no limitations or bonuses.)
+
+Underwater Terrain: Physical Damage is reduced by 25%.
+Sand Terrain: Earth attacks are disabled.
