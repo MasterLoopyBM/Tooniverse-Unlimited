@@ -5,3 +5,6 @@ This features Underwater Terrain, Sand Terrain, and Boardwalk Terrain.
 
 Underwater Terrain: Physical Damage is reduced by 25%.
 Sand Terrain: Earth attacks are disabled.
+
+NEGATIVE FFECTS:
+Salt Water: In Underwater terrain, characters that are not Water-types or Aquatic species will take 2 damage every other turn.
